@@ -1,2 +1,2 @@
-# NCSU
-learn from ncsu class
+# Stevens
+learn from stevensclass
